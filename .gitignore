@@ -1,0 +1,9 @@
+# node_modules
+*node_modules/
+
+# Django-server files
+*.pyc
+
+# should be auto-generated from execution.
+*bundles/
+*webpack-stats.json
