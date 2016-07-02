@@ -7,3 +7,4 @@
 # should be auto-generated from execution.
 *bundles/
 *webpack-stats.json
+*_initial.py

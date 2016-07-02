@@ -1,6 +1,6 @@
 ## Usage
-### Part I building a simple demo with Django and React using webpack, mainly leveraging example from https://github.com/owais/django-webpack-loader/tree/master/examples.
-### Also included a simple inline integration of CSS.
+### Part II of using Django and React, to show how to implement comment tutorial from React https://facebook.github.io/react/docs/tutorial.html. 
+### Also included a simple link to CSS.
 
 Setup virtualenv (optional)
 ```bash
