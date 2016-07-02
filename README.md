@@ -1,7 +1,7 @@
 ## Tutorial on using Django with React
-### We will use Django to serve data through REST api. While using webpack-loader to bundle and expose React scripts.
-#### *simple-demo: Basic tutorial of serving the initial server using Django and React.
-#### *comment-demo: Tutorial covering linking Django data model to respond to server requests from React front-end with commenting.
+#### We used Django to serve data through REST api, while using webpack-loader to bundle and expose React scripts.
+*simple-demo: Basic tutorial of serving the initial server using Django and React.
+*comment-demo: Tutorial covering linking Django data model to respond to server requests from React front-end with commenting.
 
 ###### Some basic set-up to run each tutorial after git cloning.
 
