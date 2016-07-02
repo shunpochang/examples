@@ -14,13 +14,12 @@ npm install
 pip install -r requirements.txt
 ```
 
-Run django server
-```bash
-./manage.py runserver
-```
-
-Run continuous webpack compiler
+Run continuous webpack compiler to get main.js with inline CSS.
 ```bash
 ./node_modules/.bin/webpack --config webpack.config.js --watch
 ```
 
+Run django server
+```bash
+./manage.py runserver
+```

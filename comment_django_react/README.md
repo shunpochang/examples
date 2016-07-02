@@ -14,13 +14,18 @@ npm install
 pip install -r requirements.txt
 ```
 
-Run django server
-```bash
-./manage.py runserver
-```
-
-Run continuous webpack compiler
+Run continuous webpack compiler to get static files.
 ```bash
 ./node_modules/.bin/webpack --config webpack.config.js --watch
 ```
 
+Create django db table.
+```bash
+./manage.py makemigrations comment
+./manage.py migrate
+```
+
+Run django server
+```bash
+./manage.py runserver
+```
