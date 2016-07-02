@@ -1,6 +1,6 @@
 ## Usage
 ### Part II of using Django and React, to show how to implement comment tutorial from React https://facebook.github.io/react/docs/tutorial.html. 
-### Also included a simple link to CSS.
+### Linking to stylesheets for CSS using extract-text-webpack-plugin.
 
 Setup virtualenv (optional)
 ```bash
