@@ -1,3 +1,4 @@
+[**Support me with a Follow**](https://github.com/shunpochang/followers)
 ## Tutorial on using Django with React
 #### We used Django to serve data through REST api, while using webpack-loader to bundle and expose React scripts.
 *simple-demo: Basic tutorial of serving the initial server using Django and React.
